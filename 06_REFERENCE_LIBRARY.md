@@ -70,7 +70,7 @@ references/
 
 > **Rappel pour toute session future :** si le nombre de références approche/atteint 10 et que la restructuration n'est pas encore faite, **la proposer et l'exécuter** avant de continuer à ajouter des fiches. Objectif : ne jamais brûler de tokens à relire des centaines de fiches inutilement.
 
-*(Statut : non encore déclenché — corpus actuel = 3 références.)*
+*(Statut : non encore déclenché — corpus actuel = 5 références. Restructurer dès ~10.)*
 
 ---
 
@@ -166,6 +166,8 @@ Taxonomie de classement. Une référence peut porter une catégorie principale e
 | REF-001 | Hôtel du Castellet | HOSPITALITY · EXPERIENCE | ★★★★ | Sérénité, gratitude |
 | REF-002 | Hôtel du Castellet — Feed Instagram | INSTAGRAM · EDITORIAL | ★★★ | Gratitude, élégance solaire |
 | REF-003 | Hôtel du Castellet — Programme Estival & Carte-programme | INSTAGRAM · EDITORIAL · PRINT | ★★★★ | Liberté, élégance solaire |
+| REF-004 | @thisisit_yacht — Feed (grille) | INSTAGRAM · YACHT-MARINE | ★★★ | Liberté, lumière |
+| REF-005 | @effet.mer — Feed (grille) | INSTAGRAM · EXPERIENCE · FB-CULINARY | ★★★ | Gratitude, art de vivre |
 
 *(L'index s'enrichit à chaque ajout. Maintenir l'ordre par identifiant.)*
 
@@ -175,18 +177,21 @@ Taxonomie de classement. Une référence peut porter une catégorie principale e
 
 Regroupements transverses qui se rempliront avec le temps — utiles pour briefer une création précise.
 
-- **Palette & lumière méditerranéennes** → REF-001 · REF-002 · REF-003 …
+- **Palette & lumière méditerranéennes** → REF-001 · REF-002 · REF-003 · REF-005 …
 - **Quiet luxury / élégance discrète** → REF-001 · REF-003 …
 - **Hospitalité & attention au client** → REF-001 …
-- **Matières naturelles (lin, bois, pierre)** → REF-001 …
+- **Matières naturelles (lin, bois, pierre)** → REF-001 · REF-005 …
 - **Présence humaine pudique (de dos, profil, fragment)** → REF-003 …
+- **Cohérence de feed / harmonie de grille** → REF-004 · REF-005 …
+- **Feed clair, lumineux & épuré (bleu/blanc marin)** → REF-004 …
+- **Art de vivre méditerranéen chaleureux (doré, table, sunset)** → REF-005 …
 - **Mise en page éditoriale** → REF-002 · REF-003 …
 - **Typographie & traitement du texte sur image** → REF-002 · REF-003 …
 - **Objet-programme / carte-programme comme contenu** → REF-003 …
-- **Système Instagram (feed, carrousels, couvertures)** → REF-002 · REF-003 …
+- **Système Instagram (feed, carrousels, couvertures)** → REF-002 · REF-003 · REF-004 · REF-005 …
 - **Lisibilité & sobriété du texte** → REF-002 · REF-003 …
 - **Packaging & écrins** → …
-- **Contre-références (à éviter)** → … *(éléments isolés : voir REF-002 et REF-003 — carnet à spirale, fonds sombres, maillot en avant-plan trop frontal)*
+- **Contre-références (à éviter)** → REF-004 *(yacht-as-hero, poses maillot, jet-skis)* · REF-005 *(scènes nocturnes party, motifs chargés)* … *(+ éléments isolés REF-002/003 : carnet à spirale, fonds sombres)*
 
 *(Ajouter chaque référence dans les collections pertinentes au moment de sa création.)*
 
@@ -389,6 +394,124 @@ Regroupements transverses qui se rempliront avec le temps — utiles pour briefe
 
 ---
 
+---
+
+### REF-004 · @thisisit_yacht — Feed (grille)
+
+| | |
+|---|---|
+| **Nom** | @thisisit_yacht — compte Instagram (charter de yachts), vue feed/grille |
+| **Catégorie** | `INSTAGRAM` · `YACHT-MARINE` |
+| **Compatibilité Harmonie** | ★★★ — Affinité partielle, et **pair direct** (c'est un compte de yacht). On adore la **clarté lumineuse bleu/blanc** et l'harmonie de grille, mais le compte met souvent **le bateau au centre** et glisse vers des codes que nous refusons (poses maillot, jet-skis). À lire comme inspiration de **lumière/clarté** ET comme contre-référence d'**approche produit**. |
+| **Source / lien** | @thisisit_yacht (vue grille) |
+| **Date d'ajout** | 2026-06-19 |
+| **Niveau d'analyse** | **Feed / grille entière** (cohérence d'ensemble, pas un post isolé) |
+
+**Observé sur la grille**
+- Dominante **bleu mer + blanc + bois clair** très lumineuse, lumière de plein soleil méditerranéen, eau turquoise.
+- Mélange : plans de yachts (ponts, intérieurs cabine), lifestyle (cocktails colorés, couple sur ponton au coucher, tender/annexes), une femme en maillot rayé posant face mer.
+- Grille **claire et cohérente** chromatiquement (le bleu/blanc unifie tout), impression « épurée » d'ensemble — c'est ce que tu retiens.
+- Quelques vignettes plus « produit » (le yacht photographié en entier, les annexes alignées).
+
+**Ce que nous aimons**
+- L'**impression de feed clair, lumineux et épuré** : la cohérence chromatique bleu/blanc/bois rend la grille harmonieuse au premier regard — exactement notre objectif de feed cohérent (`03` §15.2).
+- La **lumière marine franche** et l'eau turquoise : fraîcheur, liberté, évasion — notre émotion « liberté ».
+- Le **couple sur le ponton au coucher de soleil** : silhouette, lumière dorée, moment partagé — ça, c'est très Harmonie (pudeur + émotion).
+- Les **intérieurs clairs** (lin blanc, bois) : matières et tons proches des nôtres.
+- Le **tender / annexe sur eau calme** vu graphiquement d'en haut : cadrage abstrait élégant.
+
+**Ce que nous adaptons**
+- La **dominante bleu vif/turquoise** → la ramener vers notre registre plus **doux et crémeux** (bleu méditerranéen *clair*, beaucoup de blanc cassé/sable). Garder la clarté, baisser la saturation.
+- La **lumière de plein midi** (très contrastée) → privilégier nos **heures dorées** et lumières plus douces.
+- Les **cocktails colorés** (orange vif) → chez nous, plutôt champagne à contre-jour, tons neutres.
+- Le **lifestyle** → garder l'esprit, mais toujours via le geste pudique et le détail, jamais la pose.
+
+**Ce que nous refusons** *(contre-référence utile)*
+- Le **bateau mis au centre / photographié en héros** : c'est précisément ce que notre principe directeur interdit. Plusieurs vignettes vendent l'objet ; nous vendons l'émotion.
+- La **pose maillot face mer** : pose commerciale, corps mis en avant — explicitement hors de notre présence humaine pudique (`03` §15.3).
+- Les **jet-skis / annexes en démonstration** : glisse vers le « yacht lifestyle » et les codes nautiques de loisir que nous refusons.
+- La **saturation turquoise « carte postale »** : trop « brochure de location », pas assez quiet luxury.
+
+**Émotions transmises**
+- **Liberté** — la mer, l'évasion, le large.
+- **Énergie solaire** — lumineux, vif.
+- *(Moins de gratitude/intimité que chez nous : le compte est plus « actif/produit » qu'« émotionnel ».)*
+
+**Mots-clés**
+`feed yacht` · `grille cohérente` · `bleu blanc bois` · `clair et épuré` · `lumière marine` · `turquoise` · `couple coucher de soleil` · `pair direct` · `contre-référence produit` · `pose maillot` · `jet-ski`
+
+**Éléments réutilisables**
+- **La cohérence chromatique de grille** comme objectif : un fil unifié par une dominante (chez nous : crème/sable/blanc cassé + accents bleu doux). Confirmer que notre feed doit produire cette même impression « claire et épurée » d'ensemble.
+- Le **couple-silhouette au coucher sur le ponton** : composition à reproduire (de dos, lumière dorée).
+- Le **cadrage graphique d'eau/annexe vu d'en haut** : idée de plan abstrait marin pour rythmer le feed (pilier 2).
+- **Contre-leçon précieuse :** ce compte montre exactement le piège du « compte de yacht » — mettre le bateau et le corps au centre. Il sert de **repère de ce que Harmonie ne fera pas**, tout en confirmant que la *clarté lumineuse* est la bonne direction.
+
+**Note de synthèse**
+> Pair direct (compte de yacht) à double lecture : **oui** pour la clarté lumineuse et la cohérence de grille bleu/blanc qui te plaisent ; **non** pour l'approche produit (bateau-héros), les poses maillot et les jet-skis. La leçon : on garde *l'impression épurée et lumineuse de la grille*, on rejette *la mise en avant du produit et du corps*. C'est la frontière exacte entre un « compte de location de yacht » et Harmonie.
+
+---
+
+### REF-005 · @effet.mer — Feed (grille)
+
+| | |
+|---|---|
+| **Nom** | @effet.mer — compte Instagram (art de vivre / beach club méditerranéen), vue feed/grille |
+| **Catégorie** | `INSTAGRAM` · `EXPERIENCE` · `FB-CULINARY` |
+| **Compatibilité Harmonie** | ★★★ — Affinité partielle : un **art de vivre méditerranéen chaleureux** (tons dorés, voilages, tables au bord de l'eau, sunset) très inspirant pour l'émotion ; mais la grille est moins épurée (scènes nocturnes « party », motifs chargés) et la cohérence est plus irrégulière. On pioche les images solaires et douces. |
+| **Source / lien** | @effet.mer (vue grille) |
+| **Date d'ajout** | 2026-06-19 |
+| **Niveau d'analyse** | **Feed / grille entière** |
+
+**Observé sur la grille**
+- Dominante **chaude et dorée** : sable, lin, voilages clairs, bois, lumière de fin d'après-midi.
+- Beaucoup d'**art de vivre** : table dressée au bord de l'eau, verre/cocktail à contre-jour tenu en main, mezzés et planches, voilages/baldaquins qui flottent, transats face mer.
+- Quelques vignettes **plus sombres / nocturnes** (ambiance « party » lumière rouge, ferronnerie en ombre chinoise, motifs très graphiques).
+- Présence humaine surtout **pudique** (mains, profil, femme tenant un verre) — proche de nos codes.
+
+**Ce que nous aimons**
+- L'**art de vivre méditerranéen chaleureux** : c'est presque notre territoire émotionnel — la table au bord de l'eau, le verre à contre-jour, la lumière dorée, la lenteur. Très inspirant pour nos piliers 1 et 3.
+- Les **voilages / baldaquins en lin clair** qui flottent : matière de marque (lin), douceur, élégance balnéaire — directement transposable à bord (tissu au vent).
+- Le **verre tenu en main à contre-jour** : exactement notre photographie sensorielle (geste, pas visage).
+- La **table dressée face mer** : mise en scène de l'attention et du partage — pilier 3/4.
+- La **lumière dorée chaude** : très cohérente avec notre étalonnage (tons chauds, désaturé doux).
+- La **présence humaine pudique** (mains, profil, silhouette) : bon réflexe, aligné avec nous.
+
+**Ce que nous adaptons**
+- La **chaleur dorée parfois soutenue** → garder la chaleur mais l'éclaircir vers nos **crème/sable/blanc cassé** pour plus de respiration.
+- La **densité de certaines compositions** (tables très garnies, motifs) → épurer : moins d'éléments, plus de vide (notre 40–60 %).
+- Le **côté « beach club »** animé → transposer vers notre registre plus **intime et calme** (une table pour deux plutôt qu'une ambiance de groupe).
+- La **nourriture mise en avant** → chez nous, le détail culinaire reste sensoriel et discret (un fruit, une coupe), pas un étalage.
+
+**Ce que nous refusons** *(contre-référence utile)*
+- Les **scènes nocturnes « party »** (lumière rouge, ambiance club) : énergie festive bruyante, à l'opposé du quiet luxury et de notre calme. À écarter.
+- Les **motifs très chargés** (ferronnerie graphique, patterns denses) : trop « déco Instagram », pas assez d'air.
+- Une **cohérence de grille irrégulière** (alternance clair/sombre brutale) : nous visons une grille plus homogène et lumineuse.
+
+**Émotions transmises**
+- **Gratitude** — savourer, l'instant doré, le verre partagé.
+- **Art de vivre / dolce vita** — la table, la mer, la lenteur chaude.
+- **Désir d'évasion** — voilages, sunset, transats.
+- *(Très proche de nos émotions fondatrices : gratitude, et une chaleur méditerranéenne.)*
+
+**Mots-clés**
+`art de vivre` · `dolce vita` · `lumière dorée` · `voilage lin` · `baldaquin` · `table au bord de l'eau` · `verre à contre-jour` · `sunset` · `beach club` · `feed chaleureux` · `méditerranée` · `présence pudique`
+
+**Éléments réutilisables**
+- **Le voilage/lin qui flotte** : motif sensoriel signature à filmer/photographier à bord (tissu au vent, lumière à travers).
+- **La table dressée face mer** : composition pour nos piliers 3 (attention) et 4 (partage) — à épurer.
+- **Le verre à contre-jour tenu en main** : confirmation d'un de nos plans-clés (geste sensoriel, contre-jour doré).
+- **La palette dorée chaude de fin de journée** : référence d'ambiance pour nos réels « coucher » (pilier 2) et nos étalonnages chauds.
+- **Contre-leçon :** la dérive « party nocturne » et « grille irrégulière » montre la limite — l'art de vivre méditerranéen oui, l'énergie de club non. Harmonie reste *calme, claire, homogène*.
+
+**Note de synthèse**
+> Bel inspirateur d'**art de vivre méditerranéen chaleureux** : voilages de lin, tables face mer, verres dorés à contre-jour, présence pudique — tout cela nourrit directement nos piliers émotion/attention. Mais la grille est moins épurée que tu ne le ressens au premier coup d'œil : on **garde les images solaires et douces**, on **écarte les scènes nocturnes party et les motifs chargés**. Combiné à REF-004, on obtient la recette de TON feed idéal : *la clarté lumineuse bleu/blanc de l'un + la chaleur dorée et l'art de vivre de l'autre, le tout épuré et homogène.*
+
+---
+
+> 💡 **Méta-leçon de ce lot (feeds entiers).** Tu m'as montré des **grilles**, pas des posts : la leçon transverse est la **cohérence de feed**. Ton goût = **clair, lumineux, épuré, homogène**. La direction Harmonie qui en découle : une grille unifiée par nos neutres clairs (blanc cassé / crème / sable) + accents bleu doux et dorés, lumière naturelle constante, présence humaine pudique, **jamais** le produit ni le corps en héros, **jamais** l'énergie « party ». REF-004 apporte la *clarté marine*, REF-005 la *chaleur d'art de vivre* — Harmonie est la synthèse épurée des deux.
+
+---
+
 > **La bibliothèque est vivante.**
 > *Chaque référence ajoutée affine un peu plus la compréhension de ce qu'est — et de ce que n'est jamais — un design Harmonie. Le goût se construit ici, référence après référence, pendant des années.*
 
@@ -396,4 +519,4 @@ Regroupements transverses qui se rempliront avec le temps — utiles pour briefe
 
 *Fin (provisoire) de la bibliothèque · `06_REFERENCE_LIBRARY.md` · Harmonie Group*
 *À lire avec `01_BRAND_FOUNDATION.md`, `02_VISUAL_IDENTITY.md`, `03_INSTAGRAM_PLAYBOOK.md`.*
-*Prochaine référence à ajouter : `REF-004`.*
+*Prochaine référence à ajouter : `REF-006`.*
