@@ -138,6 +138,7 @@ Taxonomie de classement. Une référence peut porter une catégorie principale e
 | ID | Nom | Catégorie | Compatibilité | Émotion dominante |
 |---|---|---|---|---|
 | REF-001 | Hôtel du Castellet | HOSPITALITY · EXPERIENCE | ★★★★ | Sérénité, gratitude |
+| REF-002 | Hôtel du Castellet — Feed Instagram | INSTAGRAM · EDITORIAL | ★★★ | Gratitude, élégance solaire |
 
 *(L'index s'enrichit à chaque ajout. Maintenir l'ordre par identifiant.)*
 
@@ -147,13 +148,16 @@ Taxonomie de classement. Une référence peut porter une catégorie principale e
 
 Regroupements transverses qui se rempliront avec le temps — utiles pour briefer une création précise.
 
-- **Palette & lumière méditerranéennes** → REF-001 …
+- **Palette & lumière méditerranéennes** → REF-001 · REF-002 …
 - **Quiet luxury / élégance discrète** → REF-001 …
 - **Hospitalité & attention au client** → REF-001 …
 - **Matières naturelles (lin, bois, pierre)** → REF-001 …
-- **Mise en page éditoriale** → …
+- **Mise en page éditoriale** → REF-002 …
+- **Typographie & traitement du texte sur image** → REF-002 …
+- **Système Instagram (feed, carrousels, couvertures)** → REF-002 …
+- **Lisibilité & sobriété du texte** → REF-002 …
 - **Packaging & écrins** → …
-- **Contre-références (à éviter)** → …
+- **Contre-références (à éviter)** → … *(éléments isolés : voir « ce que nous refusons » de REF-002 — pose golf, artifices graphiques)*
 
 *(Ajouter chaque référence dans les collections pertinentes au moment de sa création.)*
 
@@ -217,6 +221,69 @@ Regroupements transverses qui se rempliront avec le temps — utiles pour briefe
 
 ---
 
+### REF-002 · Hôtel du Castellet — Feed Instagram
+
+| | |
+|---|---|
+| **Nom** | Hôtel du Castellet — compte Instagram @hotelducastellet (carrousels « Fête des mères », « Offrez la gastronomie », « Idées d'escapade ») |
+| **Catégorie** | `INSTAGRAM` · `EDITORIAL` · `HOSPITALITY` |
+| **Compatibilité Harmonie** | ★★★ — Affinité partielle : la **typographie** et le **traitement colorimétrique clair** sont une vraie source d'inspiration ; mais plusieurs choix (poses, artifices graphiques, fonds sombres de format) sont à écarter. On pioche sélectivement. |
+| **Source / lien** | @hotelducastellet · publications des 14 avril & 22 mai |
+| **Date d'ajout** | 2026-06-19 |
+| **Lié à** | REF-001 (même maison ; ici l'angle est le **système Instagram**, pas le lieu) |
+
+**Observé sur les visuels** *(rappel du corpus analysé)*
+- Carrousels avec **titres serif italiques élégants** (« Idées d'escapade pour ce printemps », « Visiter un domaine d'huile d'olive en Provence », « Golf, tennis ou yoga sous le soleil du Castellet »).
+- **Script manuscrit** en signature de slide (« Des instants précieux à savourer ensemble », « Offrez lui l'expérience Castellet ») souligné d'un trait fin.
+- **Photographie lumineuse et chaude** : dressage gastronomique en lumière naturelle rasante, oliviers en contre-jour doux, perspective de colonnade claire.
+- **Surtitres en petites capitales blanches** discrètes (« OFFREZ LA GASTRONOMIE », « LA FÊTE DES MÈRES APPROCHE… », « LES COUPS DE CŒUR D'ALEXIS »).
+- Procédé graphique de **carnet à spirale** séparant la photo de la zone manuscrite.
+
+**Ce que nous aimons** *(le ressenti fondateur validé)*
+- La **typographie** : le duo **serif italique raffiné (titres) + script manuscrit (signature/émotion)** crée une élégance chaleureuse — exactement l'esprit de notre hiérarchie typographique (`02` §7-8) où la serif porte l'âme et le manuscrit incarne l'attention personnelle.
+- Les **couleurs des photos, claires et harmonieuses** : lumière naturelle, tons doux, beiges/blancs/verts apaisés — pleinement cohérent avec notre palette et notre règle « lumière naturelle toujours ».
+- La **facilité de lecture** : hiérarchie nette (surtitre → titre → signature), un seul message par slide.
+- Le **peu de texte** : les visuels respirent, le texte ne sature jamais l'image — notre principe « moins, mais parfait » et la gestion du vide.
+- La **photographie gastronomique en lumière rasante** (dressage épuré, assiette claire, ombres douces des couverts) : un modèle de « détail sensoriel » directement transposable à nos attentions à bord (champagne, plateau de fruits).
+- Le **contre-jour végétal** (olives, feuillage) : douceur, profondeur de champ, lumière du Sud.
+- L'angle éditorial **« Offrir l'expérience »** : on vend un moment à partager, pas une prestation — aligné avec notre pilier 5 et nos règles de vente.
+
+**Ce que nous adaptons**
+- Le **manuscrit** → garder l'esprit (attention, chaleur) mais choisir un script **plus fin et plus sobre** que celui du Castellet (le leur est un peu appuyé/classique) ; réserver le manuscrit à un mot court, pas à une phrase entière, et le poser sur fond crème texturé plutôt que sur une zone « carnet ».
+- Les **surtitres blancs en petites capitales** → bon principe, mais à passer dans **notre typo et notre tracking large**, en blanc cassé plutôt que blanc pur, sur zone calme de l'image.
+- Le **trait de soulignement coloré** (orange/vert) sous le manuscrit → remplacer par un **filet champagne mat** discret, dans notre palette.
+- La **colorimétrie** → déjà claire et chaude ; pousser encore vers nos **neutres crème/sable** et appliquer notre preset de marque pour l'unité de grille.
+- L'**univers Provence terrienne** (oliveraie, colonnade de château) → transposer vers notre **bord de mer / horizon / lumière marine**.
+
+**Ce que nous refusons**
+- Le procédé graphique du **carnet à spirale** : artifice décoratif « template » qui alourdit et date — contraire à notre épure. À écarter.
+- La **photo de pose « golf »** (mannequin accroupie, lunettes, club, sourire posé) : pose commerciale + univers sportif + esthétique « lifestyle posé » que notre `03` proscrit explicitement (présence humaine pudique, jamais de pose face caméra).
+- Le **fond noir** du format vertical (bandes sombres au-dessus/dessous) : nous vivons dans les **clairs** ; pas de cadre sombre.
+- Les **emojis** dans les légendes (✨) et le ton « concierge » un peu appuyé → notre voix est plus sobre.
+- La **densité de surtitres** (catégorie + accroche + numéro « IDÉE #1/#2 ») : un cran trop « magazine promo » ; alléger.
+
+**Émotions transmises**
+- **Gratitude** — « instants précieux à savourer », chaleur du partage.
+- **Élégance solaire** — lumière du Sud, douceur, art de vivre.
+- **Amour / attention** — « offrez », « à partager ensemble », chouchouter un proche.
+- *(Proche de nos émotions fondatrices : gratitude et amour.)*
+
+**Mots-clés**
+`typographie` · `serif italique` · `script manuscrit` · `lisibilité` · `peu de texte` · `lumière naturelle` · `couleurs claires` · `harmonie chromatique` · `dressage gastronomique` · `contre-jour végétal` · `carrousel` · `offrir l'expérience` · `hiérarchie typographique`
+
+**Éléments réutilisables**
+- **Duo typographique titre/signature** : serif italique pour le titre + un mot manuscrit fin pour la signature émotionnelle → modèle pour nos couvertures de carrousels et slides de clôture (`03` structures de carrousels).
+- **Hiérarchie de slide** : (1) petit surtitre en caps espacées → (2) titre serif → (3) signature manuscrite/émotion. Schéma propre, lisible, à reprendre dans notre système.
+- **Photographie de détail en lumière rasante** : référence directe pour photographier le champagne, le plateau de fruits, l'art de la table à bord.
+- **Contre-jour végétal doux** : à transposer en accents nature (olivier, pin) dans nos visuels et réels.
+- **Angle « offrir un moment à partager »** : formulation et intention réutilisables pour notre pilier 5 (carte cadeau), en plus sobre.
+- **Principe « un message, peu de texte, beaucoup de lumière »** : confirmation, par une marque réelle, de notre exigence de sobriété.
+
+**Note de synthèse**
+> Excellente référence **typographique et colorimétrique** : on valide le duo serif-italique + script manuscrit, la lumière naturelle claire et la sobriété du texte — tout ce que tu as repéré. On **épure** en retirant les artifices (carnet à spirale, fond noir, soulignés colorés) et on **bannit** la pose commerciale (golf) et les emojis. En une formule : *garder la lumière et les lettres, jeter le décor et la pose.* C'est précisément ce travail de tri qui apprend au système ce qu'est un Instagram Harmonie.
+
+---
+
 > **La bibliothèque est vivante.**
 > *Chaque référence ajoutée affine un peu plus la compréhension de ce qu'est — et de ce que n'est jamais — un design Harmonie. Le goût se construit ici, référence après référence, pendant des années.*
 
@@ -224,4 +291,4 @@ Regroupements transverses qui se rempliront avec le temps — utiles pour briefe
 
 *Fin (provisoire) de la bibliothèque · `06_REFERENCE_LIBRARY.md` · Harmonie Group*
 *À lire avec `01_BRAND_FOUNDATION.md`, `02_VISUAL_IDENTITY.md`, `03_INSTAGRAM_PLAYBOOK.md`.*
-*Prochaine référence à ajouter : `REF-002`.*
+*Prochaine référence à ajouter : `REF-003`.*
