@@ -139,6 +139,7 @@ Taxonomie de classement. Une référence peut porter une catégorie principale e
 |---|---|---|---|---|
 | REF-001 | Hôtel du Castellet | HOSPITALITY · EXPERIENCE | ★★★★ | Sérénité, gratitude |
 | REF-002 | Hôtel du Castellet — Feed Instagram | INSTAGRAM · EDITORIAL | ★★★ | Gratitude, élégance solaire |
+| REF-003 | Hôtel du Castellet — Programme Estival & Carte-programme | INSTAGRAM · EDITORIAL · PRINT | ★★★★ | Liberté, élégance solaire |
 
 *(L'index s'enrichit à chaque ajout. Maintenir l'ordre par identifiant.)*
 
@@ -148,16 +149,18 @@ Taxonomie de classement. Une référence peut porter une catégorie principale e
 
 Regroupements transverses qui se rempliront avec le temps — utiles pour briefer une création précise.
 
-- **Palette & lumière méditerranéennes** → REF-001 · REF-002 …
-- **Quiet luxury / élégance discrète** → REF-001 …
+- **Palette & lumière méditerranéennes** → REF-001 · REF-002 · REF-003 …
+- **Quiet luxury / élégance discrète** → REF-001 · REF-003 …
 - **Hospitalité & attention au client** → REF-001 …
 - **Matières naturelles (lin, bois, pierre)** → REF-001 …
-- **Mise en page éditoriale** → REF-002 …
-- **Typographie & traitement du texte sur image** → REF-002 …
-- **Système Instagram (feed, carrousels, couvertures)** → REF-002 …
-- **Lisibilité & sobriété du texte** → REF-002 …
+- **Présence humaine pudique (de dos, profil, fragment)** → REF-003 …
+- **Mise en page éditoriale** → REF-002 · REF-003 …
+- **Typographie & traitement du texte sur image** → REF-002 · REF-003 …
+- **Objet-programme / carte-programme comme contenu** → REF-003 …
+- **Système Instagram (feed, carrousels, couvertures)** → REF-002 · REF-003 …
+- **Lisibilité & sobriété du texte** → REF-002 · REF-003 …
 - **Packaging & écrins** → …
-- **Contre-références (à éviter)** → … *(éléments isolés : voir « ce que nous refusons » de REF-002 — pose golf, artifices graphiques)*
+- **Contre-références (à éviter)** → … *(éléments isolés : voir REF-002 et REF-003 — carnet à spirale, fonds sombres, maillot en avant-plan trop frontal)*
 
 *(Ajouter chaque référence dans les collections pertinentes au moment de sa création.)*
 
@@ -284,6 +287,82 @@ Regroupements transverses qui se rempliront avec le temps — utiles pour briefe
 
 ---
 
+---
+
+### REF-003 · Hôtel du Castellet — Programme Estival & Carte-programme
+
+| | |
+|---|---|
+| **Nom** | Hôtel du Castellet — carrousel « Programme Estival » + série « Offrez » (sauna, petit-déjeuner extérieur) |
+| **Catégorie** | `INSTAGRAM` · `EDITORIAL` · `PRINT` |
+| **Compatibilité Harmonie** | ★★★★ — Forte affinité : deux formats Instagram très riches — la couverture éditoriale avec typo bold display et la carte-programme tenue en mains. Les deux sont immédiatement adaptables à Harmonie Yacht (une journée Harmonie / carte cadeau / carte de programme à bord). Quelques éléments à écarter (maillot trop frontal, fonds sombres). |
+| **Source / lien** | @hotelducastellet · publications du 6 juin (Programme Estival) et 22 mai (Offrez la détente / Offrez l'évasion) |
+| **Date d'ajout** | 2026-06-19 |
+| **Lié à** | REF-001 (le lieu) · REF-002 (formats Instagram du même compte) |
+
+**Observé sur les visuels** *(rappel du corpus)*
+- **Slide 1/2 — Programme Estival :** femme vue de dos/profil assise au bord de la piscine, magazine et café posés, lumière du matin. Typographie display bold ultra-large « PROGRAMME ESTIVAL » en blanc, lettres larges et aérées, posée dans la zone ciel de l'image.
+- **Slide 2/2 — Carte-programme :** une carte imprimée (programme des événements estivaux) tenue par des mains contre un mur terracotta avec reflets de piscine. La carte présente une hiérarchie typographique nette : nom d'événement en bold caps (ex. « BRASEROS FESTIFS »), date en italique léger, lieu en caps discret, description en italique plus fin, séparateurs verticaux fins entre sections. Logo de l'hôtel intégré.
+- **Slide 3/5 & 4/5 — Offrez :** surtitre « OFFREZ LA DÉTENTE » / « OFFREZ L'ÉVASION » en petites caps blanches → photo sensorielle (sauna chaud, table de brunch extérieure) → séparateur carnet à spirale → phrase manuscrite (« Parce qu'elle mérite de ralentir », « Quelques jours loin du quotidien »).
+
+**Ce que nous aimons**
+- La **couverture "Programme Estival"** : la femme de dos/profil est **exactement notre présence humaine pudique** — ni pose, ni visage frontal, ni regard caméra. On voit une atmosphère de détente solaire authentique.
+- La **typographie display bold sur image** : très grand, très espacé, en blanc sur ciel dégagé — élégant, lisible, aéré. Le mot occupe l'espace sans écraser, parce qu'il respire. Applicabilité directe pour nos couvertures de réels ou de carrousels saisonniers.
+- La **carte-programme comme objet de contenu** : l'idée de transformer un programme d'activités (ou une journée, ou une offre) en **objet éditorial désirable** tenu en mains et photographié. C'est le passage du document au souvenir. Directement transposable : une carte « La journée Harmonie » ou une carte cadeau en mains sur le bois du pont.
+- La **hiérarchie typographique de la carte** : bold caps (événement) → italique fin (date) → caps discret (lieu) → italique très fin (description). Lisible, aérée, élégante. Un modèle de hiérarchie documentaire.
+- Les **séparateurs verticaux fins** sur la carte : structurent sans alourdir — très editorial magazine.
+- La **photo de brunch extérieur** (slide 4/5) : table blanche, fruits, viennoiseries, mains qui disposent — **exactement notre pilier 3 (attention & détail)** et notre sensoriel de marque. La nappe blanche, le vert du golf flou en fond, le chapeau de paille.
+- La **photo de sauna** (slide 3/5) : gros plan de geste (main sur louche), bois chaud, ombres graphiques, chaleur ambrée — fragment sensoriel parfait, aucun visage, aucune pose.
+- La convention **« OFFREZ [concept] »** en surtitre caps : un cadre de vente direct mais élégant. On adapte pour Harmonie : « OFFREZ LA MER », « OFFREZ LE LARGE ».
+
+**Ce que nous adaptons**
+- La **typographie display** → garder le principe (grand, espacé, blanc sur zone calme de l'image) mais passer dans notre **serif fine** (Canela/Cormorant) plutôt qu'un sans-serif bold condensé. Notre version serait plus légère, plus élégante.
+- La **colorimétrie globale de la couverture** → déjà très proche de notre palette (bleu ciel, vert des pins, beige de la terrasse). Pousser encore vers nos neutres crème/sable ; pas de changement majeur.
+- La **carte-programme** → même principe, mais sur **papier texturé crème** (lin ou coton) plutôt que papier blanc offset. Séparateurs en champagne mat. Typographie dans notre système (serif + sans-serif). Photographiée sur le bois du pont, sur une nappe lin ou contre l'eau bleue — pas contre de la terracotta.
+- Le **script manuscrit des signatures** → comme dans REF-002, garder l'esprit mais plus fin, un seul mot court, pas une phrase entière.
+- Les **fonds sombres du format vidéo** (bandes noires) → à éliminer systématiquement ; nous vivons dans les clairs.
+
+**Ce que nous refusons**
+- Le **carnet à spirale** comme séparateur (déjà refusé en REF-002) — artifice graphique, daté.
+- Le **maillot de bain en avant-plan fort** : la femme assise est bien vue de profil/dos et ça fonctionne, mais le maillot noir est très présent au premier plan (jambe, épaule). Pour Harmonie, la présence humaine est encore plus **suggérée** — on reculerait légèrement, on cadrerait plus loin, ou on choisit un cadre encore plus fragment (la main sur le magazine, non la silhouette entière).
+- Les **fonds sombres** de l'habillage vidéo (format 9:16 avec bandes noires en haut/bas).
+- La **densité de la carte-programme** (4 événements = beaucoup d'infos). Pour Harmonie, la version serait plus épurée : 2–3 temps forts max, plus d'air, moins de texte par section.
+- Le **logo en clair sur fond blanc** dans la carte (présence de marque trop appuyée par rapport à notre discrètion).
+
+**Émotions transmises**
+- **Liberté** — la femme au bord de la piscine, le programme estival, l'horizon ouvert.
+- **Gratitude** — la table de brunch, le soin du détail, « elle mérite de ralentir ».
+- **Désir d'évasion** — « quelques jours loin du quotidien ».
+- *(Proche de nos émotions fondatrices : liberté et gratitude.)*
+
+**Mots-clés**
+`couverture éditoriale` · `typographie display bold` · `texte sur image` · `femme de dos` · `présence humaine pudique` · `carte-programme` · `objet éditorial` · `hiérarchie typographique` · `programme saisonnier` · `brunch extérieur` · `détail sensoriel` · `sauna sensoriel` · `offrez` · `surtitre caps` · `séparateurs fins`
+
+**Éléments réutilisables**
+
+1. **Format "couverture saisonnière"** : une image émotion forte (femme pudique, lumière, air) + un titre display très grand et espacé dans la zone calme → applicable pour lancer une saison, une offre, un événement (« LA SAISON S'OUVRE », « UNE JOURNÉE EN MER »).
+
+2. **La carte-programme photographiée** : transformer un document de marque (programme d'une journée à bord, carte cadeau, menu) en **objet éditorial tenu en mains**, photographié sur un support de marque (bois de pont, lin, eau bleue) → format carrousel ou single post très fort, directement applicable à Harmonie Yacht.
+
+3. **Hiérarchie de la carte** → modèle pour nos supports imprimés :
+   ```
+   TITRE BOLD CAPS [grande info — ex: "LA JOURNÉE HARMONIE"]
+   Date / heure — italique fin
+   LIEU — caps discret
+   Description — italique très fin
+   ─────────────
+   [section suivante]
+   ```
+
+4. **Convention « OFFREZ [concept] »** → adopter pour nos pilier 5 : « OFFREZ LE LARGE », « OFFREZ LA MER », « OFFREZ CE MOMENT ».
+
+5. **Photo de geste sensoriel** (sauna/louche, brunch/main) → confirmation du principe : **un geste, pas un visage**. A fortiori applicable à bord (main sur le champagne, main qui plie la serviette, main qui verse l'eau).
+
+**Note de synthèse**
+> Deux formats Instagram immédiatement applicables à Harmonie Yacht : la **couverture saisonnière** (typo display + présence humaine pudique) pour lancer une saison ou une offre, et la **carte-programme en mains** pour transformer un document en contenu éditorial désirable. Le principe de la carte est particulièrement puissant : notre carte cadeau, notre « programme de la journée à bord » ou notre menu photographiés sur le pont deviennent un post fort, aligné avec notre pilier 5 et notre attention aux objets. La leçon centrale : *l'objet de marque devient sujet éditorial quand il est mis en scène avec soin.*
+
+---
+
 > **La bibliothèque est vivante.**
 > *Chaque référence ajoutée affine un peu plus la compréhension de ce qu'est — et de ce que n'est jamais — un design Harmonie. Le goût se construit ici, référence après référence, pendant des années.*
 
@@ -291,4 +370,4 @@ Regroupements transverses qui se rempliront avec le temps — utiles pour briefe
 
 *Fin (provisoire) de la bibliothèque · `06_REFERENCE_LIBRARY.md` · Harmonie Group*
 *À lire avec `01_BRAND_FOUNDATION.md`, `02_VISUAL_IDENTITY.md`, `03_INSTAGRAM_PLAYBOOK.md`.*
-*Prochaine référence à ajouter : `REF-003`.*
+*Prochaine référence à ajouter : `REF-004`.*
