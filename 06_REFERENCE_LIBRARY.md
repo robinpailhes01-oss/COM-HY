@@ -48,6 +48,32 @@ Cette bibliothèque n'est donc pas une collection d'inspirations à reproduire. 
 
 ---
 
+## 📌 PLAN D'ÉVOLUTION — RESTRUCTURATION FUTURE *(à ne pas oublier)*
+
+Ce document est volontairement **monofichier** tant que le corpus est petit. Mais il est conçu pour grandir jusqu'à plusieurs centaines de références — et un fichier unique de cette taille deviendrait lourd à relire à chaque session (coût en tokens élevé et inutile).
+
+**Seuil de déclenchement : dès ~10 références**, restructurer en deux niveaux :
+
+```
+06_REFERENCE_LIBRARY.md      ← INDEX LÉGER uniquement (ID, nom, catégorie,
+                                compatibilité, 1 ligne de synthèse + collections)
+                                → quelques ko, toujours rapide à lire
+
+references/
+  REF-001_castellet.md       ← fiche complète, lue seulement si pertinente
+  REF-002_castellet-insta.md
+  REF-003_castellet-programme.md
+  REF-XXX_...
+```
+
+**Principe d'exploitation après restructuration :** lire l'index (rapide) pour repérer les références utiles → ouvrir **seulement** les fiches pertinentes pour le brief en cours, jamais tout le corpus.
+
+> **Rappel pour toute session future :** si le nombre de références approche/atteint 10 et que la restructuration n'est pas encore faite, **la proposer et l'exécuter** avant de continuer à ajouter des fiches. Objectif : ne jamais brûler de tokens à relire des centaines de fiches inutilement.
+
+*(Statut : non encore déclenché — corpus actuel = 3 références.)*
+
+---
+
 ## ÉCHELLE DE COMPATIBILITÉ HARMONIE
 
 Note de proximité d'une référence avec l'ADN Harmonie (telle qu'elle est, avant adaptation).
