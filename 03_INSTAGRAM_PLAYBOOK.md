@@ -17,9 +17,15 @@
 
 > **On ne vend pas un bateau. On ne vend pas des heures.**
 > **On fait ressentir une émotion, on crée un souvenir, on donne envie de vivre l'expérience Harmonie.**
-> **Le bateau reste le support. Jamais le héros.**
+> **Le bateau reste le support. Jamais le héros *émotionnel*.**
 
 Sur Instagram, cela se traduit par une règle simple : **le feed est un magazine de voyage méditerranéen vivant, pas un catalogue de prestations.**
+
+> **Nuance assumée (décision fondateur, 2026-06).** Ceci est le compte d'**Harmonie Yacht** : les gens ont besoin de **voir le bateau** avant de réserver. On s'autorise donc à **montrer le support clairement** — mais dans un cadre maîtrisé (voir Pilier 7 « Découvrir Harmonie », ~15–20 % du feed) et **toujours avec le traitement Harmonie** (belle lumière, élégance, vie à bord). La distinction qui gouverne tout :
+> - ❌ **Le bateau en héros émotionnel** d'un feed « catalogue » (fiche technique, esthétique yacht-party, répété partout) → toujours refusé.
+> - ✅ **Le bateau montré clairement**, minoritaire, élégant, au service de l'envie → autorisé et utile.
+>
+> En une phrase : *le bateau peut être **vu**, jamais **vendu comme un produit**.*
 
 ---
 
@@ -153,8 +159,20 @@ Six piliers structurent **tout** ce qui est publié. Chaque post appartient à u
 **Exemples :** le sens du nom « Harmonie », la devise « transformer les moments en souvenirs », un mot des fondateurs.
 **Émotion visée :** les trois, par l'attachement.
 
-> **Équilibre de référence (sur 20 posts) :** 7 Émotion · 4 Mer · 3 Attention · 3 Souvenirs · 2 Offrir · 1 Maison.
+### Pilier 7 — ⛵ DÉCOUVRIR HARMONIE *(le support montré — ~15–20 %)*
+**Quoi :** le bateau et ses espaces montrés **clairement** : le pont, le carré, la proue, les espaces de vie, l'embarcation vue dans son ensemble — pour que les gens sachent à quoi ressemble Harmonie Yacht.
+**Rôle :** **rassurer et convertir.** Personne ne réserve un bateau qu'il n'a jamais vu. Ce pilier répond au besoin légitime de voir le support.
+**Règles de traitement (non négociables) :**
+- **Toujours le traitement Harmonie** : lumière naturelle/dorée, palette claire, élégance — jamais une photo « catalogue » plate ou une esthétique brochure.
+- **Idéalement un signe de vie** : une table dressée sur le pont, le lin au vent, une silhouette pudique, un détail — plutôt qu'une coque nue.
+- **Zéro cliché** : pas de pose maillot sur le pont, pas de jet-ski, pas de « yacht-party », pas de drone tape-à-l'œil centré produit.
+- Le bateau est **montré**, jamais **vanté** (pas de specs, pas de mètres, pas d'options en légende).
+**Exemples :** le pont au coucher de soleil prêt à accueillir ; la proue fendant l'eau avec l'horizon ; le carré baigné de lumière ; le bateau à l'ancre dans une crique, vu avec recul et élégance.
+**Émotion visée :** liberté, projection (« je m'y vois »).
+
+> **Équilibre de référence (sur 20 posts) :** 6 Émotion · 4 Mer · 3 Découvrir · 3 Attention · 2 Souvenirs · 1 Offrir · 1 Maison.
 > Ajuster selon la saison (été = plus d'émotion/mer ; décembre & février = plus d'« Offrir »).
+> **Garde-fou Pilier 7 :** ~15–20 % maximum (≈ 1 vignette sur 5-6). Au-delà, le feed glisse vers le « compte de charter » et perd le quiet luxury. Ces posts doivent rester **noyés** dans l'émotion, jamais en former des blocs successifs dans la grille.
 
 **Pourquoi des piliers.** Ils transforment une intuition (« poster de belles choses ») en système reproductible par n'importe qui — humain ou IA — pendant des années, tout en garantissant que la vente reste minoritaire et noyée dans l'émotion.
 
@@ -166,7 +184,7 @@ Six piliers structurent **tout** ce qui est publié. Chaque post appartient à u
 
 | Format | Usage principal | Pilier(s) favori(s) | Fréquence indicative |
 |---|---|---|---|
-| **Post photo unique (4:5)** | Émotion pure, respiration, signature | 1, 2 | Le socle du feed |
+| **Post photo unique (4:5)** | Émotion pure, respiration, signature, découverte du bateau | 1, 2, 7 | Le socle du feed |
 | **Carrousel (4:5)** | Raconter, approfondir, présenter, offrir | 1, 3, 4, 5, 6 | 1–2 / semaine |
 | **Réel (9:16)** | Atmosphère en mouvement, portée, projection | 1, 2, 4 | 2–3 / semaine |
 | **Citation typographique (4:5)** | Rythmer le feed, porter la voix | 1, 6 | 1 toutes les 3–4 vignettes |
@@ -667,9 +685,9 @@ Ce playbook sert Harmonie Yacht aujourd'hui **sans jamais fermer la porte** à H
 3. **20 ans ?** En serais-je fier dans 20 ans ? Compatible Harmonie Group ?
 
 ### Checklist détaillée
-- [ ] **Pilier** identifié (1 à 6).
+- [ ] **Pilier** identifié (1 à 7).
 - [ ] **Émotion fondatrice** servie (liberté / gratitude / amour).
-- [ ] **Produit secondaire** : le bateau n'est pas le héros.
+- [ ] **Produit au bon niveau** : si le bateau est montré (Pilier 7), c'est avec le traitement Harmonie (belle lumière, élégance, vie à bord), jamais en fiche catalogue ni cliché — et le Pilier 7 reste ≤ ~20 % du feed. Ailleurs, le bateau n'est pas le héros émotionnel.
 - [ ] **Visuel** conforme `02` (palette claire, lumière naturelle, preset, vide, zéro cliché nautique).
 - [ ] **Cohérence de grille** : la vignette s'intègre au feed.
 - [ ] **Voix** conforme : sensorielle, sincère, pas de superlatif creux, pas de prix.
@@ -691,7 +709,7 @@ La liste rouge Instagram. Ces pratiques sont **bannies** car elles trahissent di
 
 | ❌ Interdit | Pourquoi c'est hors-marque |
 |---|---|
-| Mettre le bateau au centre / le vendre comme produit | Trahit le principe directeur (le support n'est pas le héros). |
+| Vendre le bateau comme un **produit catalogue** (fiche technique, specs, esthétique yacht-party, répété en blocs) | Trahit le principe directeur. *(Nuance : **montrer** le bateau clairement avec le traitement Harmonie est autorisé — Pilier 7, ~15–20 %. C'est le vendre comme un produit qui est interdit, pas le montrer.)* |
 | Afficher des prix / « à partir de X€ » sur le feed | Attire les chasseurs de prix, détruit la valeur perçue. |
 | Urgence commerciale (« réservez vite », « -20 % », compte à rebours) | Pression = antithèse du quiet luxury. |
 | Superlatifs creux (« incroyable », « magique », « exceptionnel ») | Sonne faux ; on fait ressentir, on n'affirme pas. |

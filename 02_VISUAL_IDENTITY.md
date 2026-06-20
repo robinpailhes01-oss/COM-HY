@@ -82,7 +82,9 @@ Chaque règle importante suit la structure :
 
 **Quand l'utiliser.** Toujours. C'est la loi qui prime sur toutes les autres.
 
-**Quand l'éviter.** Jamais — mais nuance : sur de **rares** visuels techniques privés (devis, fiche commerciale interne, documentation d'assurance), le bateau peut être montré frontalement. Ces supports ne sont **pas** de la communication de marque et ne sortent jamais sur les canaux publics.
+**Quand l'éviter.** Jamais — mais **deux nuances** :
+1. Sur de **rares** visuels techniques privés (devis, fiche commerciale interne, documentation d'assurance), le bateau peut être montré frontalement. Ces supports ne sont **pas** de la communication de marque et ne sortent jamais sur les canaux publics.
+2. **Sur le compte Harmonie Yacht** (décision fondateur, 2026-06), on s'autorise à **montrer le bateau clairement** dans un cadre maîtrisé — parce que les clients ont besoin de voir le support avant de réserver. Voir le **Pilier 7 « Découvrir Harmonie »** de `03_INSTAGRAM_PLAYBOOK.md` (~15–20 % du feed, toujours avec lumière, élégance et signe de vie). La règle reste : le bateau est **montré**, jamais **héros émotionnel** ni **fiche produit**. La distinction *centré/détaillé comme un produit à vendre* (interdit) vs *montré clairement avec le traitement Harmonie* (autorisé) est la frontière.
 
 ### 1.2 — *Quiet Luxury Méditerranéen*
 
