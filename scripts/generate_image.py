@@ -60,11 +60,19 @@ def _api_key() -> str:
     return key
 
 
+# UA navigateur : certains endpoints KIE sont derrière Cloudflare et rejettent
+# l'User-Agent par défaut de Python (erreur 1010).
+_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
+
+
 def _post(url: str, payload: dict, key: str) -> dict:
     data = json.dumps(payload).encode("utf-8")
     req = urllib.request.Request(url, data=data, method="POST")
     req.add_header("Authorization", f"Bearer {key}")
     req.add_header("Content-Type", "application/json")
+    req.add_header("User-Agent", _UA)
+    req.add_header("Accept", "application/json")
     with urllib.request.urlopen(req, timeout=120) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
@@ -72,6 +80,8 @@ def _post(url: str, payload: dict, key: str) -> dict:
 def _get(url: str, key: str) -> dict:
     req = urllib.request.Request(url, method="GET")
     req.add_header("Authorization", f"Bearer {key}")
+    req.add_header("User-Agent", _UA)
+    req.add_header("Accept", "application/json")
     with urllib.request.urlopen(req, timeout=120) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
@@ -160,7 +170,9 @@ def poll(task_id: str, key: str, timeout_s: int = 300) -> list[str]:
 
 def download(url: str, out: Path) -> None:
     out.parent.mkdir(parents=True, exist_ok=True)
-    with urllib.request.urlopen(url, timeout=120) as resp:
+    req = urllib.request.Request(url, method="GET")
+    req.add_header("User-Agent", _UA)
+    with urllib.request.urlopen(req, timeout=120) as resp:
         out.write_bytes(resp.read())
     print(f"  ✓ enregistré : {out}")
 

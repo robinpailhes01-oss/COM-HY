@@ -11,10 +11,20 @@
 
 ## 0 · RÉALITÉ PRODUIT (rappel)
 
-- **Le bateau :** yacht de **12 mètres**, basé à **Carnon** (Montpellier).
+- **Le bateau :** yacht de **12 mètres** (Atlantis, coque blanche / liseré bleu marine), basé à **Carnon** (Montpellier).
 - **Le terrain :** côte méditerranéenne **languedocienne / Occitanie** (≠ Côte d'Azur).
 - **Le principe directeur** (cf. `03` Pilier 7) : le bateau peut être **montré clairement**
   (~15–20 % des images), jamais **vendu comme un produit catalogue**.
+
+> ## 🔒 RÈGLE ABSOLUE — TOUJOURS IMAGE-TO-IMAGE *(décision fondateur, 2026-06)*
+> **Toute image publiée part désormais de NOS propres photos** (le vrai bateau, nos vrais
+> lieux, nos vrais moments). On utilise **exclusivement** `google/nano-banana-edit` avec une
+> ou plusieurs photos de référence (`image_urls`). **Plus jamais de texte→image pur** pour
+> une publication.
+> **Pourquoi :** authenticité + fidélité au vrai Atlantis. On ne veut pas un bateau inventé
+> par l'IA, mais *notre* bateau, sublimé. L'IA retouche/prolonge/met en lumière le réel — elle
+> ne fabrique pas un faux.
+> *(Le texte→image reste permis uniquement pour des essais privés internes, jamais publiés.)*
 
 ---
 
@@ -53,8 +63,8 @@ dates). Soit tu me le dis en message, soit tu le déposes dans `programmes/AAAA-
 ### 2.2 — Les deux modèles
 | Modèle | Usage | Quand |
 |---|---|---|
-| `google/nano-banana` | **texte → image** | Atmosphère, mer, horizon, détails sensoriels (le bateau précis n'est pas le sujet) |
-| `google/nano-banana-edit` | **image → image** (jusqu'à 10 réf.) | Quand on veut rester **fidèle au vrai bateau** ou prolonger une vraie photo (Pilier 7) |
+| `google/nano-banana-edit` | **image → image** (jusqu'à 10 réf.) | **PAR DÉFAUT — toujours.** Toute publication part de nos vraies photos (cf. règle absolue §0) |
+| `google/nano-banana` | texte → image | **Essais privés internes uniquement.** Jamais publié |
 
 ### 2.3 — Les 3 endpoints
 1. **Upload d'une référence** (si photo locale) → renvoie une URL temporaire (3 jours) :
