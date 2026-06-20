@@ -24,7 +24,7 @@
 |---|---|
 | `VM_03890` (groupe torse nu sous filet d'ombrage, ambiance fête) | **Contre-marque** : ressemble à un « boat party » / booze cruise — exactement le contre-exemple proscrit (`01`/`03`). Gardée sur le Drive, **jamais** utilisée pour le feed. |
 
-## 🔎 Points à valider avec le fondateur
-1. **Branding sur la coque :** les photos montrent « NEXT YACHT » (poupe) et « ATLANTIS » (flanc) — pas « Harmonie ». À remplacer par l'identité Harmonie lors des générations ?
-2. **Visages identifiables :** plusieurs photos montrent des invités/enfants de face. La charte privilégie les visages de dos/non identifiables → en génération, on recadre/floute/réoriente.
-3. **Lumière dure :** les vues extérieures du bateau (profil/poupe) sont en plein midi → l'IA pourra réchauffer vers l'heure dorée.
+## 🔎 Décisions actées (2026-06-20)
+1. **Branding sur la coque :** ➡️ **laisser tel quel** pour l'instant (on ne retouche pas « NEXT YACHT » / « ATLANTIS »).
+2. **Visages identifiables :** ➡️ on **évite les visages de face** — en génération on recompose sans personnes, ou de dos/non identifiables (charte R3).
+3. **Lumière dure :** les vues extérieures du bateau (profil/poupe) sont en plein midi → l'IA réchauffe vers l'heure dorée si besoin.
