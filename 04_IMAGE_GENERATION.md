@@ -26,6 +26,24 @@
 > ne fabrique pas un faux.
 > *(Le texte→image reste permis uniquement pour des essais privés internes, jamais publiés.)*
 
+> ## 🔒 COROLLAIRE — PRÉSERVER, NE PAS RÉINVENTER *(décision fondateur, 2026-06)*
+> Image-to-image **ne veut pas dire** « recréer une scène qui ressemble ». Quand on part
+> d'une vraie photo (notre table, notre plateau, notre bateau), il faut **préserver le sujet
+> réel** : mêmes objets, même disposition, mêmes détails. C'est **notre** table, pas une table
+> de stock.
+> - ❌ **Mauvais prompt** (le modèle invente) : *« compose une élégante nature morte de
+>   fruits de mer… »* → il fabrique un nouveau plateau générique.
+> - ✅ **Bon prompt** (le modèle édite) : *« garde EXACTEMENT cette table, ce plateau, ces
+>   verres, ce bouquet, ne déplace ni ne remplace aucun objet ; modifie SEULEMENT : enlève
+>   les personnes en arrière-plan / réchauffe la lumière vers l'heure dorée / étends le cadre
+>   en 9:16 ».*
+> **Test de validation avant livraison :** *est-ce bien NOTRE table / NOTRE bateau,
+> reconnaissable ?* Si non → trop de transformation, on recommence avec un prompt de
+> préservation (et on baisse l'ambition de « retouche »).
+> **Cas des personnes à retirer :** si la vraie photo contient des invités de face qu'on ne
+> peut pas montrer, on demande de **les retirer** en gardant le reste intact — pas de
+> reconstruire toute la scène.
+
 ---
 
 ## 1 · LA FINALITÉ — LE WORKFLOW AUTONOME
